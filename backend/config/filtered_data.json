@@ -1,0 +1,486 @@
+[
+  {
+    "name": "Pecos - Classic",
+    "area": "Brigade Road",
+    "address": "34, Rest House Rd, Shanthala Nagar, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
+    "rating": 4.3,
+    "location": {
+      "lat": 12.973678,
+      "lng": 77.607354
+    },
+    "featured":["Alcohol","Beer","Cocktails","Dancing","Food","Spirits","Wine"],
+    "cuisines": ["Finger", "FoodNorth", "IndianSeafood", "Chinese"],
+    "images": []
+  },
+  {
+    "name": "Toit Brewpub",
+    "area": "Indiranagar",
+    "address": "Indiranagar, 100 Feet Rd, Near Drops Total Spirites, Bengaluru, Karnataka 560038, India",
+    "rating": 4.5,
+    "location": {
+      "lat": 12.979208,
+      "lng": 77.6405456
+    },
+    "featured":["Alcohol","Beer","Cocktails","Dancing","Food","Spirits","Wine"],
+    "cuisines": ["Italian", "American", "European", "Continental", "Desserts"],
+    "images": []
+  },
+  {
+    "name": "Big Pitcher ",
+    "area": "Indiranagar",
+    "address": "Ward No.88, L R Arcade, No.4121, HAL Old Airport Rd, next to Leela Palace, HAL 2nd Stage, Bengaluru, Karnataka 560008, India",
+    "rating": 4.3,
+    "location": {
+      "lat": 12.9602204,
+      "lng": 77.6468902
+    },
+    "featured":["Alcohol","Beer","Cocktails","Dancing","Food","Spirits","Wine"],
+    "cuisines": [
+      "North Indian",
+      "Continental",
+      "Finger Food",
+      "Biryani",
+      "Chinese",
+      "Desserts",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "Downtown Pub",
+    "area": "Shanthala Nagar",
+    "address": "41 42, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+    "rating": 4.3,
+    "location": {
+      "lat": 12.9729231,
+      "lng": 77.6085374
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "Sherlocks Pub ",
+    "area": "Koramangala",
+    "address": "46, 4th B Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+    "rating": 3.9,
+    "location": {
+      "lat": 12.9342315,
+      "lng": 77.61595059999999
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": ["Italian", "American", "European", "Continental", "Desserts"],
+    "images": []
+  },
+  {
+    "name": "The Boozy Griffin Bangalore",
+    "area": "Koramangala",
+    "address": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+    "rating": 4.1,
+    "location": {
+      "lat": 12.9344374,
+      "lng": 77.6159175
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "B&B THE PUB",
+    "area": "Chamrajpet",
+    "address": "9,10, 11, 3rd Main Rd, near Bata Showroom, 3rd Cross, Chamrajpet, Bengaluru, Karnataka 560018, India",
+    "rating": 4,
+    "location": {
+      "lat": 12.959049,
+      "lng": 77.56738949999999
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "Dropouts Pub",
+    "area": " Kalyan Nagar",
+    "address": "# 315, 4th floor, 7th Main Rd, above Unilet tv Showroom, HRBR Layout 2nd Block, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+    "rating": 4,
+    "location": {
+      "lat": 13.0204884,
+      "lng": 77.6430252
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "1522",
+    "area": "Koramangala",
+    "address": "Raja Building, 3 C-4 Maha, 80 Feet Rd, Koramangala, Bengaluru, Karnataka 560034, India",
+    "rating": 4.1,
+    "location": {
+      "lat": 12.934275,
+      "lng": 77.630084
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "Le Rock",
+    "area": "Brigade Rd",
+    "address": "3, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+    "rating": 4.1,
+    "location": {
+      "lat": 12.973545,
+      "lng": 77.6072719
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": ["Italian", "American", "European", "Continental", "Desserts"],
+    "images": []
+  },
+  {
+    "name": "Doffpub & Cafe",
+    "area": "Indiranagar",
+    "address": "Navajyothi Complex, Doffpub , 654, 2nd Floor, 10th A Main Rd, above BIBA, Bengaluru, Karnataka 560038, India",
+    "rating": 4.2,
+    "location": {
+      "lat": 12.9773527,
+      "lng": 77.6406655
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": ["Italian", "American", "European", "Continental", "Desserts"],
+    "images": []
+  },
+  {
+    "name": "Sherlock's Pub Frazer Town",
+    "area": "Pulikeshi Nagar",
+    "address": "60, 1, Coles Rd, Cleveland Town, Pulikeshi Nagar, Bengaluru, Karnataka 560005, India",
+    "rating": 4,
+    "location": {
+      "lat": 12.9946913,
+      "lng": 77.61502519999999
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": ["Italian", "American", "European", "Continental", "Desserts"],
+    "images": []
+  },
+  {
+    "name": "South Point Pub",
+    "area": "Jayanagar",
+    "address": "Shop No. 5, No. 7, Lakshmi Towers 200 South End Circle, Rashtriya Vidyalaya Rd, 2nd Block, Jayanagar, Bengaluru, Karnataka 560004, India",
+    "rating": 4,
+    "location": {
+      "lat": 12.9382617,
+      "lng": 77.5801742
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "Pelican Pub",
+    "area": "Marathahalli",
+    "address": "84/1, Near Vasvani Reserve, Opp. SBI Bank, Kadubeesanahalli, Panathur Main Road, Marathahalli, Bangalore, Bengaluru, Karnataka 560103, India",
+    "rating": 3.8,
+    "location": {
+      "lat": 12.937927,
+      "lng": 77.699082
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "Scottish Pub",
+    "area": "St Mark's Rd",
+    "address": "Vasavi Complex, 17/21, St Mark's Rd, opposite to State Bank of India, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+    "rating": 4.1,
+    "location": {
+      "lat": 12.9721039,
+      "lng": 77.6010009
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": ["Italian", "American", "European", "Continental", "Desserts"],
+    "images": []
+  },
+  {
+    "name": "1522 The Pub ",
+    "area": "Malleshwara",
+    "address": "1522, 17th Cross Rd, A Block, Milk Colony, Subramanyanagar,2 State, Malleshwara, Bengaluru, Karnataka 560010, India",
+    "rating": 4.3,
+    "location": {
+      "lat": 13.0078049,
+      "lng": 77.5571212
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "Sherlocks Pub Kammanahalli",
+    "area": "Kalyan Nagar",
+    "address": "408, 5th Main Rd, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+    "rating": 3.9,
+    "location": {
+      "lat": 13.0229674,
+      "lng": 77.63954960000001
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": ["Italian", "American", "European", "Continental", "Desserts"],
+    "images": []
+  },
+  {
+    "name": "1522 The Pub Residency Road",
+    "area": "Residency Rd",
+    "address": "65 Field Marshall Cariappa Road, Residency Rd, Bengaluru, Karnataka 560025, India",
+    "rating": 4.3,
+    "location": {
+      "lat": 12.9729507,
+      "lng": 77.6089886
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  },
+  {
+    "name": "1522 The Pub JP Nagar",
+    "area": "J.P.Nagar",
+    "address": "6th Phase, Chandana, Number 613, Outer Ring Rd, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+    "rating": 4.2,
+    "location": {
+      "lat": 12.9062095,
+      "lng": 77.57587749999999
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": ["Italian", "American", "European", "Continental", "Desserts"],
+    "images": []
+  },
+  {
+    "name": "Crawl Street",
+    "area": "Koramangala",
+    "address": "77A, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+    "rating": 4.1,
+    "location": {
+      "lat": 12.9324688,
+      "lng": 77.613998
+    },
+    "featured": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Dancing",
+      "Food",
+      "Spirits",
+      "Wine"
+    ],
+    "cuisines": [
+      "Continental",
+      "Pizza",
+      "Burger",
+      "Biryani",
+      "Desserts",
+      "Bar Food",
+      "Beverages"
+    ],
+    "images": []
+  }
+]
